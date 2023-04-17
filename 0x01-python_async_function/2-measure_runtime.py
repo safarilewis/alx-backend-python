@@ -4,7 +4,7 @@ import asyncio
 import time
 
 
-n_times = __import__('1-concurrent_coroutines').n_times
+n_times = __import__('1-concurrent_coroutines').wait_n
 
 
 def measure_time(n: int, max_delay: int) -> float:
