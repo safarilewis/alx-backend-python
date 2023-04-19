@@ -1,4 +1,4 @@
-#!/usr/bin/bash/env python3
+#!/usr/bin/env python3
 '''basic asyncio syntax'''
 import asyncio
 import random
