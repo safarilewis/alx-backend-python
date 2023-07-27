@@ -1,4 +1,6 @@
 #!/usr/bin/env python3
+'''Mixed list annotation
+'''
 from typing import List, Union
 
 
